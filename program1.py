@@ -1,5 +1,5 @@
 #My first python program...again
-#This program says hello and asks for your name!
+#This program says hello and asks for your name and age then provides a funny response.
 
 print('Hello Friend!') 
 myName = str.lower(input('What is your name?'))  #ask for user's name
