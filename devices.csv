@@ -1,0 +1,4 @@
+Device Type,Model,Software Version,IP Address,Number of Ports,POE?
+Switch,Catalyst 3850, Cisco IOS 12.5.1,10.10.250.10,48,Yes,
+Router,ISR 4080, Cisco IOS 14.1,10.10.250.250,24,No,
+Switch,Catalyst 3850, Cisco IOS 12.5.0,10.10.250.11,24,Yes,
