@@ -8,14 +8,16 @@ class Router:
 
     def getdesc(self):
         '''return a formatted description of the router'''
-        desc = f'Router Model         :{self.model}\nSoftware Version     :{self.swversion}\nManagement IP Address:{self.ip_addr}'
+        desc = f'Router Model         :{self.model}\n'\
+               f'Software Version     :{self.swversion}\n'\
+               f'Management IP Address:{self.ip_addr}'
         return desc
 
 class Switch(Router):
     '''Switch Class'''
     def getdesc(self):
         '''return a formatted description of the switch'''
-        desc = (f'Switch Model         :{self.model}\n'
-                f'Software Version     :{self.swversion}\n'
+        desc = (f'Switch Model         :{self.model}\n'\
+                f'Software Version     :{self.swversion}\n'\
                 f'Management IP Address:{self.ip_addr}')
         return desc
