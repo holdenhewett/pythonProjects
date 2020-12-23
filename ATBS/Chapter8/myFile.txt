@@ -1,0 +1,7 @@
+This is a test file
+Python is great!
+8 * 8 = 64
+This is the first newline
+This is another new lineThis is a new line
+9th line
+New line in a new directory!
